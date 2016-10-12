@@ -1,0 +1,9 @@
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling .\src\.\PascTron.pas
+PascTron.pas(679,2) Note: Local variable "message" not used
+PascTron.pas(812,2) Note: Local variable "i" not used
+Linking .\bin\Debug\PascTron.exe
+930 lines compiled, 0.2 sec , 200768 bytes code, 43100 bytes data
+2 note(s) issued
